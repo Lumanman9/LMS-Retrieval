@@ -1,0 +1,13 @@
+.DS_Store
+**/checkpoint/*
+**/*2del/*
+*.parquet
+/.idea/
+/__pycache__/
+/checkpoint/
+/dataset/
+/encode/
+*.jsonl
+*.json
+Model/
+wandb/
